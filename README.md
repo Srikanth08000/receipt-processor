@@ -26,11 +26,11 @@ A lightweight RESTful web service that processes receipts and calculates reward 
 
 bash mvnw.cmd clean package (for windows)
 
-bash ./mvnw clean package (for mac)
 
-if above not executed for mac then use below command
+### Use Below Commands for building in mac
 
 bash chmod +x mvnw
+bash mvn clean package
 
 ### Build the Docker Image #
 
