@@ -22,9 +22,9 @@ A lightweight RESTful web service that processes receipts and calculates reward 
 
 ## Below Steps need to be executed from the root folder of the project i.e from /demo 
 
-### Build the project #
+### Build the project # (For Windows)
 
-bash mvnw.cmd clean package (for windows)
+bash mvnw.cmd clean package
 
 
 ### Use Below Commands for building in mac
