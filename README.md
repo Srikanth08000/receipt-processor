@@ -30,6 +30,7 @@ bash mvnw.cmd clean package (for windows)
 ### Use Below Commands for building in mac
 
 bash chmod +x mvnw
+
 bash mvn clean package
 
 ### Build the Docker Image #
